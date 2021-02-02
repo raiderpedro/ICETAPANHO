@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 4902432e79723b7439eb722804184d2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2382505669920756013
+    second: Terreno_Dungeon_V1_X6_0
+  - first:
+      213: -3314325794340060663
+    second: Terreno_Dungeon_V1_X6_1
+  - first:
+      213: -7310975376059208593
+    second: Terreno_Dungeon_V1_X6_2
+  - first:
+      213: 7388202903338995691
+    second: Terreno_Dungeon_V1_X6_3
+  - first:
+      213: -4571736992405712162
+    second: Terreno_Dungeon_V1_X6_4
+  - first:
+      213: 6906001263803370336
+    second: Terreno_Dungeon_V1_X6_5
+  - first:
+      213: 1494096330037822434
+    second: Terreno_Dungeon_V1_X6_6
+  - first:
+      213: 445563400638303542
+    second: Terreno_Dungeon_V1_X6_7
+  - first:
+      213: -4387526544273825069
+    second: Terreno_Dungeon_V1_X6_8
+  - first:
+      213: -522142656533526305
+    second: Terreno_Dungeon_V1_X6_9
+  - first:
+      213: 3569916033299687040
+    second: Terreno_Dungeon_V1_X6_10
+  - first:
+      213: -5196858267573207122
+    second: Terreno_Dungeon_V1_X6_11
+  - first:
+      213: 1284646176524413202
+    second: Terreno_Dungeon_V1_X6_12
+  - first:
+      213: -8325344521855377445
+    second: Terreno_Dungeon_V1_X6_13
+  - first:
+      213: -838894758306072345
+    second: Terreno_Dungeon_V1_X6_14
+  - first:
+      213: -3542538035969317020
+    second: Terreno_Dungeon_V1_X6_15
+  - first:
+      213: -7391968504379695683
+    second: Terreno_Dungeon_V1_X6_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee40d57b3afeed0800000000000000
+      internalID: -2382505669920756013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902427600462102d0800000000000000
+      internalID: -3314325794340060663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cec5471a23a8a90800000000000000
+      internalID: -7310975376059208593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc70e656b288660800000000000000
+      internalID: 7388202903338995691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed215217d6ded80c0800000000000000
+      internalID: -4571736992405712162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 300
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b06635f8b07df50800000000000000
+      internalID: 6906001263803370336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38e1432b81cb410800000000000000
+      internalID: 1494096330037822434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 186
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d06fb5d85fe2600800000000000000
+      internalID: 445563400638303542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d226f5aadf5c13c0800000000000000
+      internalID: -4387526544273825069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 186
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88d33350af0c8f0800000000000000
+      internalID: -522142656533526305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 186
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086acc2d7b3ea8130800000000000000
+      internalID: 3569916033299687040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3f3590fc01e7b0800000000000000
+      internalID: -5196858267573207122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2192dc524eaf3d110800000000000000
+      internalID: 1284646176524413202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd016544f667c80800000000000000
+      internalID: -8325344521855377445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8ba3779a5ab54f0800000000000000
+      internalID: -838894758306072345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672dbaec6066dec0800000000000000
+      internalID: -3542538035969317020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terreno_Dungeon_V1_X6_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 72
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd92914fc37a6990800000000000000
+      internalID: -7391968504379695683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
