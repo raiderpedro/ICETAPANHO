@@ -13,7 +13,7 @@ public class worldGenerator : MonoBehaviour
 
     // Update is called once per frame
 
-public const int chunkLenght = 20;     
+public const int chunkLenght = 40;     
 public Tilemap[] chunk = new Tilemap[3];     
 private int posUltimo;     
 private int limite = 10, i = 0;
